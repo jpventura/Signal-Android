@@ -30,14 +30,14 @@ dependencyVerification {
         ['androidx.autofill:autofill:1.0.0',
          'c9468f56e05006ea151a426c54957cd0799b8b83a579d2846dd22061f33e5ecd'],
 
-        ['androidx.camera:camera-camera2:1.0.0-beta11',
-         '54d7c975ea7387f0d7c65faf531005fc543fe8e8d826eb696bb2c7f950041a9c'],
+        ['androidx.camera:camera-camera2:1.0.0-rc01',
+         'a514bb300e992daee14558085002e8313fab8cef1578f1744e92fe8b82b62fcc'],
 
-        ['androidx.camera:camera-core:1.0.0-beta11',
-         '58ed18e385d3eea3e17568b5904629f5111de8af87035942f908d49815331645'],
+        ['androidx.camera:camera-core:1.0.0-rc01',
+         'd9644d729b25c0b069a48ee130732aaca5e5e98e7ea49e518d75d64fbf1cfe2b'],
 
-        ['androidx.camera:camera-lifecycle:1.0.0-beta11',
-         'f8617971cbfb2d249eea3558756bc466cb35a946a9269b966b24b6787f449631'],
+        ['androidx.camera:camera-lifecycle:1.0.0-rc01',
+         'aabd74adc29aacb7b9dc6386dbf34a4d6172ae70232cfe2bd8d07b772d8cda4f'],
 
         ['androidx.camera:camera-view:1.0.0-alpha18',
          '029652f71430e4acc97c41d40e509bf6774a86dd35a19cea5c856f0b96a6c70c'],
@@ -48,8 +48,8 @@ dependencyVerification {
         ['androidx.collection:collection:1.1.0',
          '632a0e5407461de774409352940e292a291037724207a787820c77daf7d33b72'],
 
-        ['androidx.concurrent:concurrent-futures:1.1.0',
-         '0ce067c514a0d1049d1bebdf709e344ed3266fe9744275682937cdcb13334e9e'],
+        ['androidx.concurrent:concurrent-futures:1.0.0',
+         '5595a40e278a7b39fa78a09490e3d7f3faa95c7b01447148bd38b5ade0605c35'],
 
         ['androidx.constraintlayout:constraintlayout-solver:2.0.4',
          '9ca19f5448709301c7563488ef941be9dfa55c83538ca7a059b2113e83527b46'],
@@ -86,9 +86,6 @@ dependencyVerification {
 
         ['androidx.interpolator:interpolator:1.0.0',
          '33193135a64fe21fa2c35eec6688f1a76e512606c0fc83dc1b689e37add7732a'],
-
-        ['androidx.legacy:legacy-preference-v14:1.0.0',
-         'd6d11913e56b8f2d14fd560bd1ad6d7fd5624a15dd4ec073b2d9188205f86280'],
 
         ['androidx.legacy:legacy-support-core-ui:1.0.0',
          '0d1260c6e7e6a337f875df71b516931e703f716e90889817cd3a20fa5ac3d947'],
@@ -450,6 +447,9 @@ dependencyVerification {
         ['org.signal:ringrtc-android:2.8.9',
          '696a989ee2fafa6a8a4e12e3dabdcf1dcb36c32e25006c4605180497b81a2fec'],
 
+        ['org.signal:zkgroup-android:0.7.0',
+         '52b172565bd01526e93ebf1796b834bdc449d4fe3422c1b827e49cb8d4f13fbd'],
+
         ['org.signal:zkgroup-java:0.7.0',
          'd0099eedd60d6f7d4df5b288175e5d585228ed8897789926bdab69bf8c05659f'],
 
@@ -458,6 +458,9 @@ dependencyVerification {
 
         ['org.threeten:threetenbp:1.3.6',
          'f4c23ffaaed717c3b99c003e0ee02d6d66377fd47d866fec7d971bd8644fc1a7'],
+
+        ['org.whispersystems:signal-client-android:0.1.5',
+         'a95f4d8125a22552da99b5db15589454789eee322e84d9ba613c258150366a64'],
 
         ['org.whispersystems:signal-client-java:0.1.5',
          'f5beec3fe3ef75346c2cd103278c7b0c0e117f8a97405bf9edd3bf3ff1881b70'],
